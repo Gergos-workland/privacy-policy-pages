@@ -1,0 +1,9 @@
+# Local Codex instructions - never commit
+AGENTS.md
+**/AGENTS.md
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
